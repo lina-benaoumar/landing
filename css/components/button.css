@@ -1,0 +1,11 @@
+.btn-black {
+	background-color : black;
+	padding: 15px 20px;
+	border-radius : 4px;
+	color : white;
+	font-weight: bold;
+	font-family: 'Bebas Neue', cursive;
+}
+.btn-black:hover {
+	background-color: #ED6663;
+	color: #34626C;
